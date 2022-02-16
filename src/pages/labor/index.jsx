@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 
 const linksData = [
   {'Documents': [
@@ -38,6 +39,7 @@ const LaborPage = () => {
 
         return (
           <>
+            <Link to='/'>Home</Link>
             <h2>{title}</h2>
             <ul>
               {
