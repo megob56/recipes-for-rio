@@ -34,12 +34,12 @@ const linksData = [
 const LaborPage = () => {
   return (
     <>
+      <Link to='/'>Home</Link>
       {linksData.map((datum) => {
         const title = Object.keys(datum)
 
         return (
           <>
-            <Link to='/'>Home</Link>
             <h2>{title}</h2>
             <ul>
               {
