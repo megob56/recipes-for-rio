@@ -22,7 +22,12 @@ const linksData = [
   ]},
   { 'For Rio': [
     {'title': 'Birth Partner Notes', 'link': 'birth-partner-notes.pdf'}
-  ]}
+  ]},
+  {
+    'NCT Course Links': [
+      {'title': 'NCT Padlet', 'link': 'https://padlet.com/laurahansom1000/zp1kyplc85rpy2yx'}
+    ]
+  }
 ]
 
 const LaborPage = () => {
