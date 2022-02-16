@@ -4,6 +4,12 @@ import { graphql, Link } from 'gatsby'
 const Home = ({ data }) => {
   return (
     <>
+      <h1>Labor Links Page</h1>
+      <ul>
+        <li>
+          <Link to='/labor'>Labor Links</Link>
+        </li>
+      </ul>
       <h1>Recipe List</h1>
       <ul>
         {data.allMdx.edges.map(nodes => (
