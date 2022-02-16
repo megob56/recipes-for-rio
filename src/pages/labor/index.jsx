@@ -2,14 +2,14 @@ import React from 'react'
 
 const linksData = [
   {'Documents': [
-    {'title': 'Birth Plan', 'link': '/files/birth-plan.pdf'},
-    {'title':'Birth Information', 'link': '/files/birth-information.pdf'}
+    {'title': 'Birth Plan', 'link': 'birth-plan.pdf'},
+    {'title':'Birth Information', 'link': 'birth-information.pdf'}
   ]},
   {'Breathing': [
-    {'title': 'Breathing Techniques', 'link': '/files/breathing-techniques.mp3'}
+    {'title': 'Breathing Techniques', 'link': 'breathing-techniques.mp3'}
   ]},
   {'Relaxtion': [
-    {'title': 'Relaxtion Audio', 'link': '/files/relaxation.mp3'}
+    {'title': 'Relaxtion Audio', 'link': 'relaxation.mp3'}
   ]},
   {'Spotify Music': [
     {'title':'Relaxing Massage', 'link': 'https://open.spotify.com/playlist/37i9dQZF1DXebxttQCq0zA?si=uQgMfWPGQIi34J2T6-iFOg'},
@@ -21,7 +21,7 @@ const linksData = [
     {'title':'Washing Away Fear Meditation', 'link': 'https://www.youtube.com/watch?v=lB9gHnJWV9w'},
   ]},
   { 'For Rio': [
-    {'title': 'Birth Partner Notes', 'link': '/files/birth-partner-notes.pdf'}
+    {'title': 'Birth Partner Notes', 'link': 'birth-partner-notes.pdf'}
   ]}
 ]
 
