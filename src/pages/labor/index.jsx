@@ -21,6 +21,12 @@ const linksData = [
     {'title':'Wisdom Power Strength Meditation', 'link': 'https://www.youtube.com/watch?v=U_Nvf7b9Nko'},
     {'title':'Washing Away Fear Meditation', 'link': 'https://www.youtube.com/watch?v=lB9gHnJWV9w'},
   ]},
+  {'Massage': [
+    {'title': 'Massage Touch Points', 'link': 'massage-points.jpeg'}
+  ]},
+  {'Labor Positions': [
+    {'title': 'Labor Positions', 'link': 'labor-positions.pdf'}
+  ]},
   { 'For Rio': [
     {'title': 'Birth Partner Notes', 'link': 'birth-partner-notes.pdf'}
   ]},
@@ -28,6 +34,24 @@ const linksData = [
     'NCT Course Links': [
       {'title': 'NCT Padlet', 'link': 'https://padlet.com/laurahansom1000/zp1kyplc85rpy2yx'}
     ]
+  },
+  {
+    'If labor is not progressing, ask midwives about the following': [
+      {'title': 'Abdominal Lift and Tuck', 'link': 'https://www.spinningbabies.com/pregnancy-birth/techniques/abdominal-lift-tuck/'},
+      {'title': 'Techniques to Engage Baby', 'link': 'https://www.spinningbabies.com/overdue-is-baby-engaged-yet/'}
+    ]
+  }, 
+  {
+    'Spinning Babies Links': [
+      {'title': 'Spinning Babies Principles', 'link': 'https://www.spinningbabies.com/pregnancy-birth/the-three-principles-in-pregnancy/'},
+      {'title': 'Daily Activities', 'link': 'https://www.spinningbabies.com/pregnancy-birth/daily-activities/'},
+    ]
+  }, 
+  {
+    'Brugada Drugs Info': [
+      {'title': 'Drugs to Avoid', 'link': 'https://www.brugadadrugs.org/avoid/'}
+    ]
+
   }
 ]
 
